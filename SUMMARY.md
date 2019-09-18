@@ -2,6 +2,10 @@
 
 * [About OpenMobility](README.md)
 
+## Open Mobility Charter
+
+* [About the OpenMobilityCharter](open-mobility-charter/about-the-openmobilitycharter.md)
+
 ## Shared Mobility License Framework
 
 * [About Common Shared Mobility License Framework](shared-mobility-license-framework/about-common-shared-mobility-license-framework.md)

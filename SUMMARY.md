@@ -1,6 +1,7 @@
 # Table of contents
 
 * [About OpenMobility](README.md)
+* [Terminology](terminology.md)
 
 ## Shared Mobility License Framework
 
@@ -21,4 +22,8 @@
 ## My Mobility /My Data
 
 * [About MyMobility/MyData](my-mobility-my-data/about-mymobility-mydata.md)
+
+## OpenMobility Design System
+
+* [Untitled](openmobility-design-system/untitled.md)
 

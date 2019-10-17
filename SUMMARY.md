@@ -25,5 +25,11 @@
 
 ## OpenMobility Design System
 
-* [Untitled](openmobility-design-system/untitled.md)
+* [Philosophy](openmobility-design-system/untitled.md)
+* [Gallery](openmobility-design-system/gallery.md)
+* [Typoface](openmobility-design-system/typoface.md)
+* [Color](openmobility-design-system/color.md)
+* [Grid](openmobility-design-system/grid.md)
+* [Icons and Pictograms](openmobility-design-system/icons-and-pictograms.md)
+* [Untitled](openmobility-design-system/untitled-1.md)
 

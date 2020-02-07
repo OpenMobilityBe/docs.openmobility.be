@@ -4,3 +4,5 @@ These pages are a first setup in the creating of a "universal" shared mobility l
 
 **Disclaimer:** The ideas in this document are just that, ideas. There still need to be done legal checks and operational checks before they can be implemented. 
 
+![](../.gitbook/assets/screenshot_2.png)
+

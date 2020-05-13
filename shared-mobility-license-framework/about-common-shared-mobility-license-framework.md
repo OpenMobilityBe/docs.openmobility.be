@@ -6,3 +6,34 @@ These pages are a first setup in the creating of a "universal" shared mobility l
 
 ![](../.gitbook/assets/screenshot_2.png)
 
+## General Parameters
+
+In order to provide context and a frame for the license model, several general parameters need to be defined.
+
+```text
+{ 
+    "@context":"xxx", 
+    "@type": "LicenseModel", 
+    "name": "...", 
+ } 
+```
+
+| Field | Type | Description | Example |
+| :--- | :--- | :--- | :--- |
+| `name` | String | Name of the license | Shared mobility license model for free floating bikes. |
+| `description` | String | Description of the license model | This license model describes the requirements and criteria to operate a free floating bikes in the City of Antwerp |
+| `zones` | String | Well Known Text \(WKT\) description of the areas that is covered by the license model | POLYGON\(\(4.676055908203124 50.88993205766312,4.723434448242187 50.89025691478409,4.72360610961914 50.86610302664647,4.675369262695312 50.86599468504889,4.676055908203124 50.88993205766312\)\) |
+| `hasCriterionRequirement` | CriterionRequirement | Array of requirements |  |
+
+
+
+## License Constraints
+
+## Operational Demands
+
+## Data Exchange
+
+## Societal Criteria
+
+
+
